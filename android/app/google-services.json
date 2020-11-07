@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "585681176823",
+    "firebase_url": "https://post-player-53b25.firebaseio.com",
+    "project_id": "post-player-53b25",
+    "storage_bucket": "post-player-53b25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585681176823:android:7185548febde4aa959ebf2",
+        "android_client_info": {
+          "package_name": "com.postplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585681176823-trpb6e1mdgsueeirjbv55bhflpl4tbou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLts5FRmeQyg6Z4kccBmn3kv4N8N0I-As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585681176823-trpb6e1mdgsueeirjbv55bhflpl4tbou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
